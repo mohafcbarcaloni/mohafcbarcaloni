@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://discord.gg/6BwgxVeGqJ](https://discord.gg/6BwgxVeGqJ)
+- 👨‍💻 All of my projects are available at [https://discord.gg/ultracommunityJ](https://discord.gg/ultracommunity)
 
 - 💬 Ask me about **Lead Developer Thes languages [Html, Css, Lua, JavaScript]**
 
